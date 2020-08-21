@@ -1,0 +1,13 @@
+CLEAN	 -	flutter clean
+PACKAGES -	flutter packages get 
+PUB      -  flutter pub get
+
+DEBUGGING :
+	*	adb tcpip 5555
+	*	adb connect (Mobile IP Address)
+
+BUILD 	-	flutter build apk 
+
+VSCODE {
+    'Debug' : 'F5'
+}
