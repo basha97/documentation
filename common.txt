@@ -1,0 +1,4 @@
+INTERPRETER - It is used to interpret one language in operating system.
+GUI - Graphical User Interface
+CLI - Command Line Interface
+RAM - Random Access Memory it is used to store the memory.

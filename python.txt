@@ -1,0 +1,10 @@
+----------
+    * Use PIP to install a module or library.
+    * Anaconda to intrepet operation system.
+
+COMMAND PROMPT 
+    >>> this stands for (REPL)READ EVALUATE PRINT LOOP
+
+
+To view all function available in module use dir(module_name) 
+    for buildin function use dir(__builtins__)
